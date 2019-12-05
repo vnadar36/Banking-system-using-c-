@@ -23,7 +23,7 @@ namespace ConsoleApplication9
         public void checkbalance(int x)
         {
             bal=x;
-            Console.WriteLine("Balance Amount: {0}", bal);
+            Console.WriteLine("Balance Amoun: {0}", bal);
         }
         public void withdraw(int y)
         {
